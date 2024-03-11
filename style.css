@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+    padding: 15px;
+}
+body{
+    background-color: hsla(180, 84%, 55%, 0.658);
+    
+}
+header{
+    background-color: rgb(133, 230, 230);
+}
+h1{
+    color: hsla(240, 77%, 46%, 0.701);
+    text-align: center;
+}
